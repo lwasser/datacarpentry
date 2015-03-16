@@ -3,6 +3,7 @@ layout: lesson
 title: Programming with Python
 subtitle: Analyzing Patient Data
 minutes: 30
+root: .
 ---
 > ## Learning Objectives {.objectives}
 >
